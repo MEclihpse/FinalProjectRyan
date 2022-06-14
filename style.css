@@ -1,0 +1,16 @@
+.jumbotron {
+padding-top: 2rem ;
+background-color: whitesmoke;
+}
+
+#barbar {
+    position: sticky;
+}
+
+section {
+    background-color: whitesmoke;
+}
+
+.porto {
+    font-style: italic;
+}
